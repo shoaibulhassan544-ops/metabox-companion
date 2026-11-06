@@ -21,7 +21,8 @@ Android companion app for the MetaBox desktop tool (test builds).
 
 - `version.json` — latest version (versionCode, versionName, apkUrl,
   changelog). The app reads this file to check for updates.
-- Releases — APK assets (`MetaBox-Companion-vX.Y.apk`).
+- Releases — APK assets (`MetaBox-Companion-vX.Y.apk`).- APKs live in `releases/` in this repo (e.g. `releases/MetaBox-Companion-v2.3.apk`) — the app downloads them from the raw URL in `version.json`.
+- GitHub Releases are also created per version (notes only; the asset upload host rejects this account's API credential, so the APK file itself lives in `releases/`).
 
 ## Signing
 
