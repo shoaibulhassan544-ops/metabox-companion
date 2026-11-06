@@ -1,0 +1,6 @@
+{
+  "versionCode": 8,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/shoaibulhassan544-ops/metabox-companion/releases/download/v2.3/MetaBox-Companion-v2.3.apk",
+  "changelog": "In-app auto-update aa gaya hai — ab nayi version app khud batayegi aur download karke install karegi. Design audit: duplicate lists single ki gayin (Dashboard upcoming, Pages KB pages, KartBrowser counts)."
+}
